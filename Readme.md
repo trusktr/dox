@@ -141,6 +141,7 @@ var obj = dox.parseComments(code);
     - isPrivate
     - isEvent
     - isConstructor
+    - isClass
     - line
     - ignore
     - code
